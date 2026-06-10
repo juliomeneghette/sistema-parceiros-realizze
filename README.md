@@ -1,5 +1,9 @@
 # 🏆 Sistema de Parceiros Realizze
 
+## 📸 Preview
+
+![Preview do Sistema](assets/preview.png)
+
 ## 📖 Sobre o Projeto
 
 Sistema desenvolvido para gerenciamento e acompanhamento de parceiros comerciais, permitindo o controle de pontuações e campanhas de incentivo.
